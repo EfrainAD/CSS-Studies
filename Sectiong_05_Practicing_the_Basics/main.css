@@ -58,8 +58,12 @@ article#recommended {
     color: whitesmoke;
     text-shadow: 1px 1px black;
 }
-#recommended h1 {
-    
+#recommended-badge {
+    background: blanchedalmond;
+    padding: 10px;
+    border-radius: 10px;
+    color: greenyellow;
+    box-shadow: 5px 5px 5px black;
 }
 
 /* #plans button {
