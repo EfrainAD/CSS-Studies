@@ -40,7 +40,6 @@ body {
 #plans ul {
     list-style: none;
     padding: 0;
-    /* text-align: center; */
 }
 #plans ul > li {
     padding: 5px 0px;
@@ -69,13 +68,9 @@ article#recommended {
     color: greenyellow;
     box-shadow: 5px 5px 5px black;
 }
-
-/* #plans button {
-} */
-
-/* h1 {
-    font-family: sans-serif;
-} */
+.plan-price {
+    color: goldenrod;
+}
 
 .main-header {
     width: 100%;
