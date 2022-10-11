@@ -1,0 +1,25 @@
+body {
+     font-family: sans-serif;
+}
+h1 {
+     color: gray;
+     font-family: sans-serif;
+}
+.second-list code {
+     color: green;
+}
+code {
+     color: blue; /*Should be red for assingment. */
+     font-family: monospace;
+}
+li {
+     font-family: inherit;
+}
+li ~ li {
+     background-color: black;
+     color: white;
+}
+ol li {
+     background-color: black;
+     color: white;
+}
