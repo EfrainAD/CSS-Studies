@@ -1,0 +1,12 @@
+.package {
+     padding: 30px;
+}
+.package-plus {
+     background: lightgoldenrodyellow;
+}
+.package-free {
+     background: lightgray;
+}
+.package-premium {
+     background: darkgreen;
+}
