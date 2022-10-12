@@ -5,6 +5,18 @@
      padding: 30px;
      border: 3px solid black;
 }
+.package a {
+     text-decoration: none;
+     color: black;
+}
+.package h2 {
+     color: gray;
+}
+.package p {
+     background: white;
+     padding: 12px;
+     border: 3px solid darkgray;
+}
 .package-plus {
      background: lightgoldenrodyellow;
 }
